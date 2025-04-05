@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bettertospeak
 - 👀 I’m interested in ... Weight training, Reading and Exploring!
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python 3, SQL
 - 💞️ I’m looking to collaborate on ... -
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
